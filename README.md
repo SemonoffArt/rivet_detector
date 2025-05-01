@@ -1,6 +1,6 @@
 # Детектор заклёпок для конвейерной ленты
 
-![Logo](images/rivet_detector.png)
+![Logo](images/rivet_detector_fb3.png)
 
 Специализированная система обнаружения заклёпок на конвейерной ленте, разработанная для ПЛК Siemens S7-1500 в среде TIA Portal.
 
